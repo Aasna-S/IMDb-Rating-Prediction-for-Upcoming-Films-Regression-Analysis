@@ -15,8 +15,8 @@ for (package in required_packages) {
 
 
 
-IMDB_data = read.csv("/Users/lauray/Documents/学习/MMA/Fall 2023/MGSC661/mid/IMDB_data_Fall_2023.csv")
-test_df = read.csv("/Users/lauray/Documents/学习/MMA/Fall 2023/MGSC661/mid/test_data_IMDB_Fall_2023.csv")
+IMDB_data = read.csv("IMDB_data.csv")
+test_df = read.csv("test_data_IMDB.csv")
 attach(IMDB_data)
 
 # Change month to number
