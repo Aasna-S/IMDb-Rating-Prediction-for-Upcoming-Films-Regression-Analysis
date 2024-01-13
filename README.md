@@ -1,1 +1,1 @@
-# IMDb-Rating-Prediction-for-Upcoming-Films-Regression-Analysis
+This repository documents the development of a sophisticated statistical model designed to forecast IMDb ratings for twelve films scheduled for release in November 2023. Utilizing a dataset of around two thousand films, the objective is to pinpoint key predictors of IMDb ratings and construct a robust, accurate predictive model based on regression techniques.
